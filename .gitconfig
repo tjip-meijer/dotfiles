@@ -2,4 +2,4 @@
 	email = tjipmeijer@gmail.com
 	name = tjip-meijer
 [hub]
-	protocol = https
+	protocol = git
