@@ -1,0 +1,5 @@
+2020/04/28-19:26:13.600 cebf Reusing MANIFEST /home/tjip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/28-19:26:28.760 d487 Level-0 table #5: started
+2020/04/28-19:26:28.782 d487 Level-0 table #5: 1009 bytes OK
+2020/04/28-19:26:28.802 d487 Delete type=0 #3
+2020/04/28-19:26:28.802 d487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

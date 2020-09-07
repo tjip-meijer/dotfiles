@@ -1,0 +1,18 @@
+2020/09/06-13:10:13.353 1d59 Reusing MANIFEST /home/tjip/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/06-13:10:13.353 1d59 Recovering log #325
+2020/09/06-13:10:13.354 1d59 Reusing old log /home/tjip/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000325.log 
+2020/09/06-13:43:46.515 77dd Level-0 table #329: started
+2020/09/06-13:43:46.533 77dd Level-0 table #329: 23751 bytes OK
+2020/09/06-13:43:46.546 77dd Delete type=0 #325
+2020/09/06-16:58:16.897 77dd Level-0 table #331: started
+2020/09/06-16:58:16.921 77dd Level-0 table #331: 23585 bytes OK
+2020/09/06-16:58:16.935 77dd Delete type=0 #328
+2020/09/06-16:58:16.935 77dd Compacting 4@0 + 1@1 files
+2020/09/06-16:58:16.969 77dd Generated table #332@0: 313 keys, 495296 bytes
+2020/09/06-16:58:16.969 77dd Compacted 4@0 + 1@1 files => 495296 bytes
+2020/09/06-16:58:16.983 77dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/06-16:58:16.984 77dd Delete type=2 #329
+2020/09/06-16:58:16.984 77dd Delete type=2 #320
+2020/09/06-16:58:16.984 77dd Delete type=2 #323
+2020/09/06-16:58:16.984 77dd Delete type=2 #326
+2020/09/06-16:58:16.984 77dd Delete type=2 #331

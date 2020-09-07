@@ -1,0 +1,5 @@
+2020/09/06-22:00:01.891 1f2e5 Reusing MANIFEST /home/tjip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.community_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/06-22:00:36.083 1f482 Level-0 table #5: started
+2020/09/06-22:00:36.099 1f482 Level-0 table #5: 88207 bytes OK
+2020/09/06-22:00:36.110 1f482 Delete type=0 #3
+2020/09/06-22:00:36.110 1f482 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

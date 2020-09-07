@@ -1,0 +1,7 @@
+2020/07/12-23:30:23.487 1013bc Reusing MANIFEST /home/tjip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/12-23:30:23.487 1013bc Recovering log #3
+2020/07/12-23:30:23.488 1013bc Reusing old log /home/tjip/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000003.log 
+2020/07/12-23:30:50.415 335fd Level-0 table #5: started
+2020/07/12-23:30:50.424 335fd Level-0 table #5: 2205 bytes OK
+2020/07/12-23:30:50.435 335fd Delete type=0 #3
+2020/07/12-23:30:50.435 335fd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
